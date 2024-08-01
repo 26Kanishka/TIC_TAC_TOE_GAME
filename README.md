@@ -15,3 +15,7 @@ Features :-
 Technologies Used :-
 
 Python: The game is implemented using Python, utilizing its built-in functions for input handling and game logic.
+
+![Screenshot 2024-08-01 060128](https://github.com/user-attachments/assets/471110b1-f0d1-43b9-971b-d7f29c2ad183)
+
+![Screenshot 2024-08-01 060207](https://github.com/user-attachments/assets/4a5d2dac-5815-409d-9c2e-512bbd850972)
